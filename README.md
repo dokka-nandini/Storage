@@ -1,14 +1,6 @@
 # Storage
 
 
-7 8 
-c p 
-
-hp 
-
-full c
-
-
 https://www.linkedin.com/posts/karuna-patil-b3939526a_walkin-bangalorejob-freshers-share-7447902521131573248-XdMN?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAF_NGTMBFp9HBlWLr2KTFHtOsHK1jhNlegI&utm_campaign=copy_link
 call them above number
 
@@ -86,5 +78,5 @@ For **Saturday, April 11, 2026**, there are several walk-in drives focused on so
 | **Tech Prep** | Review **SQL Basics** & **OOPS** | Standard for almost all fresher software interviews in Bengaluru. |
 | **Documents** | Keep 5 Resume copies + ID | Many buildings (like those in Marathahalli/Banaswadi) require ID for entry. |
 > **Note:** Be cautious of "consultancies" that ask for money for training or placement. Legitimate walk-in drives by companies like BigSpire or Shabari will **never** charge you for an interview.
-> 
+> ok tc tmr 578 paduko gn
 Since most of these drives test your understanding of how software is built, having a clear mental map of the **Software Development Life Cycle (SDLC)**—from Requirement Analysis to Maintenance—will help you answer foundational questions during the technical round.
