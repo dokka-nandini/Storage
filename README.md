@@ -44,3 +44,47 @@ Required Technical Skills:
 
 
 send mail
+
+
+
+
+
+
+
+
+
+For **Saturday, April 11, 2026**, there are several walk-in drives focused on software roles and technical support for freshers in Bengaluru. Since it's a Saturday, some drives may have limited hours, so it's best to arrive before **10:00 AM**.
+### **Software & Technical Walk-ins**
+ * **BigSpire Software**
+   * **Roles:** Web Developer (Freshers), Software Testers (Manual/Automation), HTML Developers.
+   * **Tech Stack:** HTML/CSS, JavaScript, OOPS concepts, MySQL.
+   * **Location:** Banaswadi, Bengaluru.
+ * **SHABARI (Graduate Trainee Drive)**
+   * **Role:** Graduate Trainee Engineer.
+   * **Eligibility:** B.E / B.Tech (Any branch) / B.Sc / BCA.
+   * **Focus:** Desktop/Laptop Assembly, OS installation (Windows/Linux), and Basic Troubleshooting.
+   * **Location:** JP Nagar, Bengaluru.
+ * **BuziBrAIns**
+   * **Role:** Trainee Software Developer (SDLC focus).
+   * **Skills:** SQL, HTML, Basic Software Lifecycle knowledge.
+   * **Location:** R. T. Nagar, Bengaluru.
+### **Technical Support & Semi-Technical Roles**
+ * **Valuestream Business Solutions**
+   * **Role:** Technical Support / Customer Experience.
+   * **Location:** Marathahalli, Bengaluru.
+ * **SMOTPRO India Pvt Ltd**
+   * **Role:** Operations & Support (Freshers).
+   * **Time:** 10:00 AM – 5:00 PM.
+   * **Location:** C.V. Raman Nagar, Bengaluru.
+ * **ReadyAssist Automobile Services**
+   * **Role:** Technical Support Executive (Customer Facing).
+   * **Location:** Bengaluru Central.
+### **Action Plan for April 11**
+| Priority | Task | Why? |
+|---|---|---|
+| **Early Bird** | Reach the venue by **9:30 AM** | Saturday drives often have high volume; early slots are preferred. |
+| **Tech Prep** | Review **SQL Basics** & **OOPS** | Standard for almost all fresher software interviews in Bengaluru. |
+| **Documents** | Keep 5 Resume copies + ID | Many buildings (like those in Marathahalli/Banaswadi) require ID for entry. |
+> **Note:** Be cautious of "consultancies" that ask for money for training or placement. Legitimate walk-in drives by companies like BigSpire or Shabari will **never** charge you for an interview.
+> 
+Since most of these drives test your understanding of how software is built, having a clear mental map of the **Software Development Life Cycle (SDLC)**—from Requirement Analysis to Maintenance—will help you answer foundational questions during the technical round.
